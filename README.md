@@ -1,5 +1,6 @@
 ### About Me
 
+<div align="center">
 <a href="https://www.linkedin.com/in/volodymyr-ohy-3bb0b11a3/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
