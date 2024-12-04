@@ -36,14 +36,14 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/raigester">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raigester&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Volodymyr's Language Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raigester&hide=ruby&layout=compact&hide_border=true&langs_count=6&theme=highcontrast" alt="Volodymyr's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/raigester">
-            <img src="https://github-readme-stats.vercel.app/api?username=raigester&show_icons=true&hide=stars&hide_border=true" alt="" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=raigester&show_icons=true&hide=stars&hide_border=true&theme=highcontrast" alt="" vertical-align="middle"/>
           </a>
         </div>
         </td>
