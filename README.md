@@ -30,6 +30,9 @@
   <table width="100%">
     <tbody>
       <tr>
+      <a style="display: flex; align-items: center;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raigester&theme=highcontrast" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
+      </a>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/raigester">
